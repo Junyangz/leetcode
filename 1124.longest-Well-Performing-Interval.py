@@ -9,11 +9,9 @@ class Solution:
             else:
                 cur += 1
             j = bisect.bisect(stack, [cur + 1])
-            print(j,cur,i)
             if j < len(stack):
                 res = max(res, i - stack[j][1])
             if stack[-1][0] < cur:
                 stack.append([cur, i])
-            print(res,stack)
         return res
         
