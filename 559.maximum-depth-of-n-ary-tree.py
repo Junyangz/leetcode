@@ -19,6 +19,5 @@ class Solution:
 #                 for c in node.children:
 #                     temp.append(dfs(c, d+1))
 #                 return max(temp)
-            
 #         return dfs(root, 1) if root else 0
             
