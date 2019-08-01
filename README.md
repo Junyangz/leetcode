@@ -2,18 +2,19 @@
 
 ## TODO
 
-* Sort
-    - [*] heap sort 
-    - [] shell sort
-    - [] quick sort
-    - [] insert sort
-    - [] merge sort
-    - [] bubble sort
+### Sort
 
-* DP
+- [x] heap sort 
+- [ ] shell sort
+- [ ] quick sort
+- [ ] insert sort
+- [ ] merge sort
+- [ ] bubble sort
 
-* Search
+### DP
 
-* Backtracking
+### Search
 
-* etc
+### Backtracking
+
+### etc
