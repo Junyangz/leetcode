@@ -15,6 +15,9 @@
 #         self.val = x
 #         self.next = None
 
+# review required 
+# linknode reversed
+
 class Solution:
     def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
         if not head or k == 1:
