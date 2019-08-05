@@ -6,10 +6,11 @@
 
 - [x] heap sort 
 - [ ] shell sort
-- [ ] quick sort
-- [ ] insert sort
+- [x] quick sort
+- [x] insertion sort
 - [ ] merge sort
-- [ ] bubble sort
+- [x] bubble sort
+- [x] selection sort
 
 ### DP
 
