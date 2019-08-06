@@ -12,7 +12,10 @@
 - [x] bubble sort
 - [x] selection sort
 
-### DP
+### DFS
+
+  * [968](968.binary-tree-cameras.py)
+  * [979](979.distribute-coins-in-binary-tree.py)
 
 ### Search
 
