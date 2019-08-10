@@ -4,7 +4,7 @@
 
 ### Sort
 
-- [x] [heap sort](sort/headp_sort.py)
+- [x] [heap sort](sort/heap_sort.py)
 - [ ] [shell sort](sort/a_shell_sort.py)
 - [x] [quick sort](sort/quick_sort.py)
 - [x] [insertion sort](sort/insertion_sort.py)
