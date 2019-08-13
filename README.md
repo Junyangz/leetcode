@@ -23,6 +23,7 @@
 
   * [300](300.longest-increasing-subsequence.py)
   * [264](264.ugly-number-ii.py)
+  * [1155](1155.number-of-dice-rolls-with-target-sum.py)
 
 ### Backtracking
 
