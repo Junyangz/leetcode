@@ -16,6 +16,7 @@
 
   * [968](968.binary-tree-cameras.py)
   * [979](979.distribute-coins-in-binary-tree.py)
+  * [756](756.pyramid-transition-matrix.py)
 
 ### Search
 
