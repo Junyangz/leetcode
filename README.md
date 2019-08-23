@@ -29,18 +29,18 @@
 
 #### Sequences
 
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  [121.best-time-to-buy-and-sell-stock.py](121.best-time-to-buy-and-sell-stock.py)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [x] [3Sum](https://leetcode.com/problems/3sum/)
-- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  [238.product-of-array-except-self.py](238.product-of-array-except-self.py)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  |  [53.maximum-subarray.py](53.maximum-subarray.py)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)  |  [15.3-sum.py](15.3-sum.py)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  [56.merge-intervals.py](56.merge-intervals.py)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  |  [49.group-anagrams.py](49.group-anagrams.py)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)  |  [53.maximum-subarray.py](53.maximum-subarray.py)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  [33.search-in-rotated-sorted-array.py](33.search-in-rotated-sorted-array.py)
 
 #### Data Structures
 
