@@ -39,8 +39,8 @@
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 #### Data Structures
 
