@@ -45,7 +45,7 @@
 #### Data Structures
 
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)  |  [206.reverse-linked-list.py](206.reverse-linked-list.py)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)  |  [141.linked-list-cycle.py](141.linked-list-cycle.py)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)  |  [141.linked-list-cycle.py](141.linked-list-cycle.py)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
