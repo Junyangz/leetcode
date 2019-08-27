@@ -49,7 +49,7 @@
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  |  [11.container-with-most-water.py](11.container-with-most-water.py)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |  [153.find-minimum-in-rotated-sorted-array.py](153.find-minimum-in-rotated-sorted-array.py)
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  [424.longest-repeating-character-replacement.py](424.longest-repeating-character-replacement.py)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  [3.longest-substring-without-repeating-characters.py](3.longest-substring-without-repeating-characters.py)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
