@@ -50,50 +50,50 @@
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |  [153.find-minimum-in-rotated-sorted-array.py](153.find-minimum-in-rotated-sorted-array.py)
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  [424.longest-repeating-character-replacement.py](424.longest-repeating-character-replacement.py)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  [3.longest-substring-without-repeating-characters.py](3.longest-substring-without-repeating-characters.py)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  
+- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |  [19.remove-nth-node-from-end-of-list.py](19.remove-nth-node-from-end-of-list.py)
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)  |  
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  [23.merge-k-sorted-lists.py](23.merge-k-sorted-lists.py)
 
 #### Non-Linear Data Structures
 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  [98.validate-binary-search-tree.py](98.validate-binary-search-tree.py)
+- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  
+- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  
+- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  
+- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  
+- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  |  
+- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)  |  
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  [102.binary-tree-level-order-traversal.py](102.binary-tree-level-order-traversal.py)
 
 #### More Data Structures
 
-- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  |  
+- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)  |  
+- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  |  
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  
+- [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  |  
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  [23.merge-k-sorted-lists.py](23.merge-k-sorted-lists.py)
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  |  
+- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)  |  
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  |  
+- [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)  |  
 
 #### Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [70.climbing-stairs.py](70.climbing-stairs.py)
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)  |  
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  [300.longest-increasing-subsequence.py](300.longest-increasing-subsequence.py)
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)  |  
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)  |  
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)  |  
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)  |  
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)  |  
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)  |  
+- [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)  |  
