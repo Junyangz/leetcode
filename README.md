@@ -50,7 +50,7 @@
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |  [153.find-minimum-in-rotated-sorted-array.py](153.find-minimum-in-rotated-sorted-array.py)
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  [424.longest-repeating-character-replacement.py](424.longest-repeating-character-replacement.py)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  [3.longest-substring-without-repeating-characters.py](3.longest-substring-without-repeating-characters.py)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  [76.minimum-window-substring.py](76.minimum-window-substring.py)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |  [19.remove-nth-node-from-end-of-list.py](19.remove-nth-node-from-end-of-list.py)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  
