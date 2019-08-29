@@ -64,7 +64,7 @@
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  [347.top-k-frequent-elements.py](347.top-k-frequent-elements.py)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  [347.top-k-frequent-elements.py](347.top-k-frequent-elements.py)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  
