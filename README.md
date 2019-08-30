@@ -91,8 +91,8 @@
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)  |  
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  [300.longest-increasing-subsequence.py](300.longest-increasing-subsequence.py)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)  |  
-- [ ] [House Robber](https://leetcode.com/problems/house-robber/)  |  
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)  |  
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)  |  [198.house-robber.py](198.house-robber.py)
+- [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/)  |  [213.house-robber-ii.py](213.house-robber-ii.py)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)  |  
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)  |  
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)  |  
