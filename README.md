@@ -51,7 +51,7 @@
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  [424.longest-repeating-character-replacement.py](424.longest-repeating-character-replacement.py)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  [3.longest-substring-without-repeating-characters.py](3.longest-substring-without-repeating-characters.py)
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  [76.minimum-window-substring.py](76.minimum-window-substring.py)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  [200.number-of-islands.py](200.number-of-islands.py)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |  [19.remove-nth-node-from-end-of-list.py](19.remove-nth-node-from-end-of-list.py)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)  |  
