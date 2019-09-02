@@ -53,7 +53,7 @@
 - [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  [76.minimum-window-substring.py](76.minimum-window-substring.py)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  [200.number-of-islands.py](200.number-of-islands.py)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |  [19.remove-nth-node-from-end-of-list.py](19.remove-nth-node-from-end-of-list.py)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  [647.palindromic-substrings.py](647.palindromic-substrings.py)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)  |  
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  [23.merge-k-sorted-lists.py](23.merge-k-sorted-lists.py)
 
