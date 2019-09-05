@@ -3,10 +3,10 @@
 ### Sort
 
 - [x] [heap sort](sort/heap_sort.py)
-- [ ] [shell sort](sort/a_shell_sort.py)
+- [x] [shell sort](sort/shell_sort.py) ?
 - [x] [quick sort](sort/quick_sort.py)
 - [x] [insertion sort](sort/insertion_sort.py)
-- [x] [merge sort](sort/a_merge_sort.py)
+- [x] [merge sort](sort/merge_sort.py)
 - [x] [bubble sort](sort/bubble_sort.py)
 - [x] [selection sort](sort/selection_sort.py)
 
