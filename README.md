@@ -61,7 +61,7 @@
 #### Non-Linear Data Structures
 
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  [98.validate-binary-search-tree.py](98.validate-binary-search-tree.py)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  
+- [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  [226.invert-binary-tree.py](226.invert-binary-tree.py)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  
