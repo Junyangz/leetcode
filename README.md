@@ -62,7 +62,7 @@
 
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  [98.validate-binary-search-tree.py](98.validate-binary-search-tree.py)
 - [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  [226.invert-binary-tree.py](226.invert-binary-tree.py)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  [435.non-overlapping-intervals.py](435.non-overlapping-intervals.py)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  [347.top-k-frequent-elements.py](347.top-k-frequent-elements.py)
