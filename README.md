@@ -63,8 +63,8 @@
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  [98.validate-binary-search-tree.py](98.validate-binary-search-tree.py)
 - [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  [226.invert-binary-tree.py](226.invert-binary-tree.py)
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  [435.non-overlapping-intervals.py](435.non-overlapping-intervals.py)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  
+- [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  [297.serialize-and-deserialize-binary-tree.py](297.serialize-and-deserialize-binary-tree.py)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  [105.construct-binary-tree-from-preorder-and-inorder-traversal.py](105.construct-binary-tree-from-preorder-and-inorder-traversal.py)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  [347.top-k-frequent-elements.py](347.top-k-frequent-elements.py)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  
