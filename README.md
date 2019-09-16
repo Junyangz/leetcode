@@ -66,11 +66,11 @@
 - [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  [297.serialize-and-deserialize-binary-tree.py](297.serialize-and-deserialize-binary-tree.py)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  [105.construct-binary-tree-from-preorder-and-inorder-traversal.py](105.construct-binary-tree-from-preorder-and-inorder-traversal.py)
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  [347.top-k-frequent-elements.py](347.top-k-frequent-elements.py)
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  |  
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)  |  
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  [133.clone-graph.py](133.clone-graph.py)
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  [207.course-schedule.py](207.course-schedule.py)
+- [x] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  [124.binary-tree-maximum-path-sum.py](124.binary-tree-maximum-path-sum.py)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  |  [104.maximum-depth-of-binary-tree.py](104.maximum-depth-of-binary-tree.py)
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/)  |  [100.same-tree.py](100.same-tree.py)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  [102.binary-tree-level-order-traversal.py](102.binary-tree-level-order-traversal.py)
 
 #### More Data Structures
