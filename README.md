@@ -75,7 +75,7 @@
 
 #### More Data Structures
 
-- [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  |  
+- [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  |  [211.add-and-search-word-data-structure-design.py](211.add-and-search-word-data-structure-design.py)
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)  |  
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  |  
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  
