@@ -77,7 +77,7 @@
 
 - [x] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)  |  [211.add-and-search-word-data-structure-design.py](211.add-and-search-word-data-structure-design.py)
 - [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)  |  [208.implement-trie-prefix-tree.py](208.implement-trie-prefix-tree.py)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  |  
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  |  [572.subtree-of-another-tree.py](572.subtree-of-another-tree.py)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  |  
 - [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  [23.merge-k-sorted-lists.py](23.merge-k-sorted-lists.py)
