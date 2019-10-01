@@ -1,18 +1,31 @@
 class Solution:
-    def equalSubstring(self, S: str, T: str, maxCost: int) -> int:
-        N = len(S)
-        A = [abs(ord(S[i]) - ord(T[i])) for i in range(N)]
-        left = 0
-        windowsum = 0
-        ans = 0
-        for right, x in enumerate(A):
-            windowsum += x
-            while windowsum > maxCost and left < N:
-                windowsum -= A[left]
-                left += 1
-            cand = right - left + 1
-            ans = max(ans, cand)
-        return ans
+    def equalSubstring(self, s: str, t: str, maxCost: int) -> int:
+        n = len(s)
+        A = [ abs(ord(s[i]) - ord(t[i])) for i in range(n) ]
+        i = 0
+        for j in range(n):
+            maxCost -= A[j]
+            if maxCost < 0:
+                maxCost += A[i]
+                i += 1
+        return j - i + 1
+        
+        
+        
+        
+        # N = len(S)
+        # A = [abs(ord(S[i]) - ord(T[i])) for i in range(N)]
+        # left = 0
+        # windowsum = 0
+        # ans = 0
+        # for right, x in enumerate(A):
+        #     windowsum += x
+        #     while windowsum > maxCost and left < N:
+        #         windowsum -= A[left]
+        #         left += 1
+        #     cand = right - left + 1
+        #     ans = max(ans, cand)
+        # return ans
     
 #         save = maxCost
 #         maxSub = 0
