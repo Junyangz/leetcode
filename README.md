@@ -89,7 +89,7 @@
 #### Dynamic Programming
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [70.climbing-stairs.py](70.climbing-stairs.py)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)  |  
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)  |  [322.coin-change.py](322.coin-change.py)
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  [300.longest-increasing-subsequence.py](300.longest-increasing-subsequence.py)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)  |  
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)  |  [198.house-robber.py](198.house-robber.py)
